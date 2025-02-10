@@ -4,7 +4,7 @@ Pablo Císcar Blázquez
 Lenguaje de Marcas
 ### Preguntas del día dd/mm/aa
 
-1. Tu respuesta:
+1. ¿Que dia es hoy?
 
 2. Tu respuesta:
 
